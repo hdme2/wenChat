@@ -14,3 +14,5 @@ interface ImportMetaEnv {
 interface ImportMeta {
   readonly env: ImportMetaEnv
 }
+GEMINI_API_KEY=你的新密钥
+GEMINI_MODEL_NAME=gemini-2.5-flash  # 默认使用此模型，支持图像输入
